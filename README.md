@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently working on a hackathon project "Secret Santa"
+I'm currently learning react
+
 <!--
 **Jake-Yeo/Jake-Yeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
