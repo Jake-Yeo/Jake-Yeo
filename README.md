@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm currently working on a hackathon project "Secret Santa"
-I'm currently learning to code
+I'm currently learning web development.
 
 Pull test
 <!--
