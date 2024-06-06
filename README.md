@@ -1,19 +1,24 @@
-### Hi there 👋
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm currently learning react web development.
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi, I'm Jake</h1></summary>
+  </ul>
+</div>
 
-Pull test
-<!--
-**Jake-Yeo/Jake-Yeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-- 🔭 I’m currently working on Secret Santa
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Intro start-->
+- 🔭 I’m currently working on **React.ts, Expressjs, Nodejs, MongoDB**
+
+- 🌱 I’m currently learning **to put together MERN applications.**
+
+- 📫 Feel free to reach me out **jakeyeozh@gmail.com**
+<!--Intro end-->
