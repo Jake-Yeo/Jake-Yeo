@@ -20,5 +20,5 @@
 
 - 🌱 I’m currently learning **to put together MERN applications.**
 
-- 📫 Feel free to reach me out **jakeyeozh@gmail.com**
+- 📫 Feel free to reach out at **jakeyeozh@gmail.com**
 <!--Intro end-->
