@@ -16,7 +16,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React.ts, Expressjs, Nodejs, MongoDB**
+- 🔭 I’m currently working on **zen-cafe**, an online cafe where you can chat to other users part of the cafe.
 
 - 🌱 I’m currently learning **to put together MERN applications.**
 
