@@ -19,6 +19,4 @@
 - 🔭 I’m currently working on **zen-cafe**, an online cafe where you can chat to other users part of the cafe.
 
 - 🌱 I’m currently learning **to put together MERN applications.**
-
-- 📫 Feel free to reach out at **jakeyeozh@gmail.com**
 <!--Intro end-->
