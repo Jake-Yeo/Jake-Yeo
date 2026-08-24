@@ -1,22 +1,35 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# Hey, I'm Jake Yeo 👋
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Jake</h1></summary>
-  </ul>
-</div>
+I'm a Computer Science student at the **University of British Columbia** (BSc, expected 2027) who builds practical full-stack applications, local-first productivity tools, and AI-assisted workflows.
 
+## What I build
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/Jake-Yeo/Jake-Yeo/5427fcfa7c03bf0e71986ed78ef1efc0a168813b/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+- **Full-stack web products** with React, TypeScript, Node.js, Express, PostgreSQL, and MongoDB.
+- **Personal productivity systems** that combine responsive PWAs, durable server-side workflows, and cross-device data.
+- **Cloud-backed tools** using AWS Lambda, Docker, authentication, API integrations, and automated tests.
 
-<!--Intro start-->
-- 🔭 I’m currently working on **zen-cafe**, an online cafe where you can chat to other users part of the cafe.
+## Featured projects
 
-- 🌱 I’m currently learning **to put together MERN applications.**
-<!--Intro end-->
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Isle of Ithaca](https://github.com/Jake-Yeo/ithacus-launcher) | A local-first PWA and macOS desktop launcher for a personal app suite. | React, TypeScript, Express, Tauri |
+| [Nourish](https://github.com/Jake-Yeo/nourish) | A photo-first nutrition diary with reviewable AI meal estimates and durable server-side analysis jobs. | React, TypeScript, Express, SQLite |
+| [Telemachus](https://github.com/Jake-Yeo/telemachus) | A local-first dashboard for finance tracking and LeetCode practice. | React, TypeScript, Material UI |
+| [PullUp](https://github.com/Jake-Yeo/PullUp) | A UBC team-built social planning app; the public mirror preserves the original team history and attribution. | React, TypeScript, Node.js, Express, MongoDB |
+| [Sum-Up Sundae](https://github.com/tyin76/sum-up-sundae) | An nwHacks 2025-winning weekly group video-recap platform. | React, Node.js, Express, MongoDB, Livepeer |
+
+## Technologies
+
+**Languages:** TypeScript, JavaScript, Python, Java, C++, C, HTML/CSS  
+**Frontend:** React, Next.js, Redux Toolkit, Material UI, Tailwind CSS  
+**Backend & data:** Node.js, Express, PostgreSQL, MongoDB, SQLite, GraphQL  
+**Cloud & tooling:** AWS Lambda, Docker, Git/GitHub, Playwright, Vitest, pytest
+
+## Connect
+
+- Browse my work: [github.com/Jake-Yeo](https://github.com/Jake-Yeo)
+- Explore the [portfolio source](https://github.com/Jake-Yeo/jake-yeo-site)
+
+---
+
+*I care about shipping useful software with clear ownership, durable workflows, and maintainable code.*
