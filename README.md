@@ -2,6 +2,14 @@
 
 I'm a Computer Science student at the **University of British Columbia** (BSc, expected 2027) who builds practical full-stack applications, local-first productivity tools, and AI-assisted workflows.
 
+## Experience
+
+- **Full Stack Web Developer — UBC Faculty of Medicine** · *May–Dec 2025*  
+  Built AWS Lambda and Docker document-generation pipelines integrating Gotenberg and Adobe APIs to produce individualized PDF/DOCX CVs for hundreds of UBC faculty and researchers.
+
+- **Full Stack Web Developer — Invoke Digital** · *Jan–Apr 2025*  
+  Used AWS Lambda and Boto3 multipart uploads to reduce video-clip generation time by **70%** and upload time by **30%**; developed pytest coverage and supported team delivery through weekly Scrum facilitation.
+
 ## What I build
 
 - **Full-stack web products** with React, TypeScript, Node.js, Express, PostgreSQL, and MongoDB.
