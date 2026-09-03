@@ -19,6 +19,7 @@ I'm a Computer Science student at the **University of British Columbia** (BSc, e
 | --- | --- | --- |
 | [Isle of Ithaca](https://github.com/Jake-Yeo/ithacus-launcher) | A local-first PWA and macOS desktop launcher for a personal app suite. | React, TypeScript, Express, Tauri |
 | [Nourish](https://github.com/Jake-Yeo/nourish) | A photo-first nutrition diary with reviewable AI meal estimates and durable server-side analysis jobs. | React, TypeScript, Express, SQLite |
+| [Callumployed](https://github.com/CallumMackenzie/callumployed) | A collaborative local-first job-search tool where I built durable role preparation, application-material workflows, and generation safeguards while working with the project maintainer. | Python, SQLite, Playwright, OpenAI |
 | [Telemachus](https://github.com/Jake-Yeo/telemachus) | A local-first dashboard for finance tracking and LeetCode practice. | React, TypeScript, Material UI |
 | [PullUp](https://github.com/Jake-Yeo/PullUp) | A UBC team-built social planning app; the public mirror preserves the original team history and attribution. | React, TypeScript, Node.js, Express, MongoDB |
 | [Sum-Up Sundae](https://github.com/tyin76/sum-up-sundae) | An nwHacks 2025-winning weekly group video-recap platform. | React, Node.js, Express, MongoDB, Livepeer |
